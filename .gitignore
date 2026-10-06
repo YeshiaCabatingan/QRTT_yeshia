@@ -20,7 +20,13 @@ expo-env.d.ts
 .DS_Store
 
 # local env files
+.env
+.env.*
 .env*.local
+.venv/
+android/.gradle/
+android/app/build/
+android/build/
 
 # teaching materials
 docs/
